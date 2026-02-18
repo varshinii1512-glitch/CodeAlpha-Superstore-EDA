@@ -27,3 +27,4 @@ print(df[["Discount", "Profit"]].corr())
 
 
 
+
